@@ -21,6 +21,7 @@
 
 ![React](https://img.shields.io/badge/-React-E0F7FA?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-D4E6FF?style=flat-square&logo=flutter&logoColor=02569B)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-F0F0F0?style=flat-square&logo=flask&logoColor=000000)
 
 ### **Development Tools**
@@ -37,7 +38,7 @@
 ### **APIs and Documentation**
 
 ![Swagger](https://img.shields.io/badge/-Swagger-E8F8F0?style=flat-square&logo=swagger&logoColor=85EA2D)
-
+![Postman](https://img.shields.io/badge/-Postman-FF6E8D?style=flat-square&logo=postman&logoColor=white)
 <br/>
 
 ## Education 🎓
@@ -70,5 +71,5 @@
 🔧 Developing end-to-end solutions for various clients
 
 ## Contact Me 📬
-[![Gmail](https://img.shields.io/badge/-larissa.beatrizzcosta@gmail.com-FFD3B6?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:larissa.beatrizzcosta@gmail.com)](mailto:larissa.beatrizzcosta@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email%20Me-FFD3B6?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:larissa.beatrizzcosta@gmail.com)](mailto:larissa.beatrizzcosta@gmail.com?subject=Hello%20Larissa!)
 [![LinkedIn](https://img.shields.io/badge/-Larissa%20Beatriz%20Costa-8EC5FC?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/larissabeatrizcosta)](https://www.linkedin.com/in/larissabeatrizcosta)
