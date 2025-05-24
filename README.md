@@ -10,16 +10,19 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFE5B4?style=flat-square&logo=firebase&logoColor=FF8A65)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-D4F1F9?style=flat-square&logo=mariadb&logoColor=6ECFF6)
 ![SQLite](https://img.shields.io/badge/-SQLite-B5EAD7?style=flat-square&logo=sqlite&logoColor=2EB872)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-C7CEEA?style=flat-square&logo=postgresql&logoColor=336791)
 
 ### **Languages**
 
 ![C#](https://img.shields.io/badge/-C%23-D9E3FF?style=flat-square&logo=c-sharp&logoColor=7B8CD9)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FDFD96?style=flat-square&logo=javascript&logoColor=F9C846)
-![Python](https://img.shields.io/badge/-Python-C7EEFF?style=flat-square&logo=python&logoColor=5DA9BA)
+![TypeScript](https://img.shields.io/badge/-Python-C7EEFF?style=flat-square&logo=python&logoColor=5DA9BA)
+![Dart](https://img.shields.io/badge/-Dart-FF9AA2?style=flat-square&logo=dart&logoColor=0175C2)
 
 ### **Frameworks and Libraries**
 
 ![React](https://img.shields.io/badge/-React-E0F7FA?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-FFDAC1?style=flat-square&logo=angular&logoColor=DD0031)
 ![Flutter](https://img.shields.io/badge/-Flutter-D4E6FF?style=flat-square&logo=flutter&logoColor=02569B)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-F0F0F0?style=flat-square&logo=flask&logoColor=000000)
