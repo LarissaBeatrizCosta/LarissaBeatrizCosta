@@ -70,7 +70,7 @@
 
 ### **Fullstack Developer**
 👩‍💻 Current Position  
-🛠️ Working with: React, JavaScript, Flutter, MySQL, Phyton...
+🛠️ Working with: React, JavaScript, Flutter, MySQL...
 🔧 Developing end-to-end solutions for various clients
 
 ## Contact Me 📬
