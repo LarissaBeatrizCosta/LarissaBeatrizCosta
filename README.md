@@ -16,7 +16,7 @@
 
 ![C#](https://img.shields.io/badge/-C%23-D9E3FF?style=flat-square&logo=c-sharp&logoColor=7B8CD9)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FDFD96?style=flat-square&logo=javascript&logoColor=F9C846)
-![TypeScript](https://img.shields.io/badge/-Python-C7EEFF?style=flat-square&logo=python&logoColor=5DA9BA)
+![TypeScript](https://img.shields.io/badge/-TypeScript-C7EEFF?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Dart](https://img.shields.io/badge/-Dart-FF9AA2?style=flat-square&logo=dart&logoColor=0175C2)
 
 ### **Frameworks and Libraries**
